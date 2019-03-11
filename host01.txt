@@ -1,0 +1,10 @@
+ttttttttttt
+tttttt
+host#show log
+sssss
+ttt m up mm
+ssjjjjj
+ggggg down
+ttt myz 1.1
+host#show interface
+tttttt yyy
