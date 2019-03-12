@@ -1,0 +1,17 @@
+ttttttttttt 
+tttttt 
+host#show sys log ltm 
+sssss 
+ttt mmm down 
+ssjjjjupj 
+ggggg 
+ttt myz 1.1 
+tttt host03
+host#show sys log audit 
+tttttt yyy 
+login test
+audit
+host#show sys status 
+not log 
+ssssss 
+ttttt 
