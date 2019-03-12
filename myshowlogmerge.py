@@ -28,4 +28,5 @@ with open(hostlfname) as f:
 			hostname = tmpstr[0]
 			
 			#print('hname  = ',hostname,'fname = ',path)
-			myciscocom.merge_showlog(hostname,path,findfl,findstr)		
+			myciscocom.merge_showlog(hostname,path,findfl,findstr)
+
